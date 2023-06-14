@@ -24,6 +24,8 @@ alias apt-cache=nala
 
 Visit https://searx.work/
 
-Enter the URL bar, and click the green `+`button next to the SearXNG logo.
+Enter the URL bar, and click the green `+` button next to the SearXNG logo.  
 
 ![image](https://github.com/VehementHam/KDE-Neon/assets/75701545/01229f2c-b5cc-4df4-86aa-6666fb5fd4af)
+
+
