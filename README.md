@@ -22,5 +22,5 @@ alias apt-cache=nala
 ```
 # firefox 
 
-Visit [(https://searx.work/)]
+Visit https://searx.work/
 
