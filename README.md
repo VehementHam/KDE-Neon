@@ -11,8 +11,9 @@ Install Nala
 apt update && sudo apt install nala
 ``` 
 
-Convert APT to Nala 
-add to `~/.bashrc` and `/root/.bashrc`
+Convert `apt` to `nala` 
+
+Add to `~/.bashrc` and `/root/.bashrc`
 
 ```bash
 alias sudo="sudo "
@@ -20,6 +21,8 @@ alias apt=nala
 alias apt-get=nala
 alias apt-cache=nala
 ```
+To run an `apt` command without the alias, use the `command` argument before the command.
+
 # firefox 
 
 Harden firefox
