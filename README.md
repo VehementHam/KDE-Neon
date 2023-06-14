@@ -29,6 +29,9 @@ git clone https://github.com/hnhx/user.js
 cd user.js
 ./install.sh
 ```
+Click "Add"
+
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20Add%20Cropped.png)
 
 Visit https://searx.work/
 
