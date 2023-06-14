@@ -22,6 +22,14 @@ alias apt-cache=nala
 ```
 # firefox 
 
+Harden firefox
+
+```shell
+git clone https://github.com/hnhx/user.js
+cd user.js
+./install.sh
+```
+
 Visit https://searx.work/
 
 Enter the URL bar, and click the green `+` button next to the SearXNG logo.  
