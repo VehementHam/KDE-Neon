@@ -85,7 +85,7 @@ Click on the puzzle piece icon. Navigate to the Ublock Origin extention. Click o
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Pin%20Ublock%20Origin%20to%20Toolbar%20Cropped.png)
 
-# Install Packages
+# Install packages
 
 ### Install native packages
 
