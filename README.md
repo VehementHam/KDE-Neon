@@ -84,3 +84,13 @@ Return Youtube Dislike: https://addons.mozilla.org/en-US/firefox/addon/return-yo
 Click on the puzzle piece icon. Navigate to the Ublock Origin extention. Click on the settings icon, and check "Pin to Toolbar".
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Pin%20Ublock%20Origin%20to%20Toolbar%20Cropped.png)
+
+# Install Packages
+
+### Install native packages
+
+```sudo apt install neofetch gimp freeciv make cmake gcc htop```
+
+## Install flatpaks
+
+```sudo flatpak install com.atlauncher.ATLauncher org.kde.haruna xyz.armcord.Armcord -yy```
