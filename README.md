@@ -57,10 +57,30 @@ Click "Make Default"
 
 Click "Search"
 
-![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20Search.png)
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20Search.png)sponsor block
 
 Select "searx.work"
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20SearXNG.png)
 
 ### Add Sponsor Block, I don't care about cookies, and return Youtube Dislike.
+
+Visit the Sponsor block page at https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/
+
+Click "Add"
+
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Sponsor%20Block.png)
+
+There should be a pop up. When you see it, click "Add". For the next popup, check "Allow this extension to run in Private Windows" and click "Okay"
+
+Repeat the process for the following links
+
+I don't care about cookies: https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/
+
+Return Youtube Dislike: https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/
+
+### Pin Ublock Origins to toolbar
+
+Click on the puzzle piece icon. Navigate to the Ublock Origin extention. Press the settings icon, and check "Pin to Toolbar".
+
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Pin%20Ublock%20Origin%20to%20Toolbar%20Cropped.png)
