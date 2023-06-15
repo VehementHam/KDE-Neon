@@ -46,4 +46,8 @@ Enter the URL bar, type, and click the SearXNG logo with green `+` button in the
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Add%20SeaXNG.png)
 
+Click the sandwitch and navigate to "Settings"
+
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20the%20Sandwitch%20Button%20and%20Navigate%20to%20Settings%20Cropped.png)
+
 Add Sponsor Block, I don't care about cookies, Tampermonky, and return Youtube Dislike.
