@@ -93,7 +93,7 @@ Click on the puzzle piece icon. Navigate to the Ublock Origin extention. Click o
 sudo apt install neofetch gimp freeciv make cmake gcc htop
 ```
 
-## Install flatpaks
+### Install flatpaks
 
 ```
 sudo flatpak install com.atlauncher.ATLauncher org.kde.haruna xyz.armcord.Armcord -yy
