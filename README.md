@@ -42,7 +42,7 @@ Click "Allow this extension to run it Private Windows" then click "Okay".
 
 Visit https://searx.work/
 
-Enter the URL bar, type, and click the green `+` button next to the SearXNG logo.  
+Enter the URL bar, type, and click the SearXNG logo with green `+` button in the top right corner.  
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Add%20SeaXNG.png)
 
