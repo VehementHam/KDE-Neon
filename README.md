@@ -98,7 +98,7 @@ Click on the puzzle piece icon. Navigate to the Ublock Origin extention. Click o
 ### Install native packages
 
 ```
-sudo apt install neofetch gimp freeciv make cmake gcc htop
+sudo apt install neofetch gimp freeciv make cmake gcc htop obs-studio
 ```
 
 ### Install flatpaks
