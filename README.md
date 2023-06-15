@@ -50,4 +50,15 @@ Click the sandwitch and navigate to "Settings"
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20the%20Sandwitch%20Button%20and%20Navigate%20to%20Settings%20Cropped.png)
 
+Click "Make Default"
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20Make%20Default.png)
+
+Click "Search"
+
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20Search.png)
+
+Select "searx.work"
+
+![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20SearXNG.png)
+
 Add Sponsor Block, I don't care about cookies, Tampermonky, and return Youtube Dislike.
