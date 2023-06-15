@@ -36,7 +36,7 @@ Click "Add"
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20Add%20Cropped.png)
 
-Click "Allow this extension to run it Private Windows" then click "Okay".
+Check "Allow this extension to run it Private Windows" then click "Okay".
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20Allow%20Extensiont%20to%20Run%20in%20Private%20Windows%20and%20Click%20Okay%20Cropped.png)
 
