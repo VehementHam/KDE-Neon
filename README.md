@@ -63,4 +63,4 @@ Select "searx.work"
 
 ![image](https://github.com/VehementHam/KDE-Neon/blob/main/Click%20SearXNG.png)
 
-### Add Sponsor Block, I don't care about cookies, Greasemonky, and return Youtube Dislike.
+### Add Sponsor Block, I don't care about cookies, and return Youtube Dislike.
