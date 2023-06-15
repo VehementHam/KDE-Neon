@@ -98,3 +98,18 @@ sudo apt install neofetch gimp freeciv make cmake gcc htop
 ```
 sudo flatpak install com.atlauncher.ATLauncher org.kde.haruna xyz.armcord.Armcord -yy
 ```
+
+# Install Nvidia drivers
+
+
+### Add repository
+
+```
+sudo add-apt-repository ppa:graphics-drivers/ppa -y
+```
+
+### Install drivers
+
+```
+sudo apt install xserver-xorg-video-nvidia-535 -y
+```
