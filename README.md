@@ -11,6 +11,14 @@ echo "deb http://deb.volian.org/volian/ scar main" | sudo tee /etc/apt/sources.l
 apt update && sudo apt install nala
 ``` 
 
+### Update mirrors
+
+```
+sudo nala fetch
+```
+
+When prompted, enter `1 2 3`
+
 ### Convert `apt` to `nala` 
 
 Add to `~/.bashrc` and `/root/.bashrc`
