@@ -24,7 +24,7 @@ When prompted, enter `1 2 3`
 Add to `~/.bashrc` and `/root/.bashrc`
 
 ```bash
-alias sudo="sudo "
+alias sudo="sudo "sudo add-apt-repository ppa:graphics-drivers/ppa -y
 alias apt=nala
 alias apt-get=nala
 alias apt-cache=nala
@@ -98,7 +98,7 @@ Click on the puzzle piece icon. Navigate to the Ublock Origin extention. Click o
 ### Install native packages
 
 ```
-sudo apt install neofetch gimp freeciv make cmake gcc htop obs-studio
+sudo apt install neofetch gimp freeciv make cmake gcc htop obs-studio -y
 ```
 
 ### Install flatpaks
