@@ -1,17 +1,17 @@
 # nala 
-Add Repository 
+## Add Repository 
 
 ```shell
 echo "deb http://deb.volian.org/volian/ scar main" | sudo tee /etc/apt/sources.list.d/volian-archive-scar-unstable.list; wget -qO - https://deb.volian.org/volian/scar.key | sudo tee /etc/apt/trusted.gpg.d/volian-archive-scar-unstable.gpg
 ``` 
 
-Install Nala 
+## Install Nala 
 
 ```shell
 apt update && sudo apt install nala
 ``` 
 
-Convert `apt` to `nala` 
+## Convert `apt` to `nala` 
 
 Add to `~/.bashrc` and `/root/.bashrc`
 
