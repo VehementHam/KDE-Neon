@@ -24,7 +24,7 @@ When prompted, enter `1 2 3`
 Add to `~/.bashrc` and `/root/.bashrc`
 
 ```bash
-alias sudo="sudo "sudo add-apt-repository ppa:graphics-drivers/ppa -y
+alias sudo="sudo "
 alias apt=nala
 alias apt-get=nala
 alias apt-cache=nala
